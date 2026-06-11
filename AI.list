@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+
+# Tabbit 美团AI浏览器 (web.tabbit.ai 直连=403 geo-block，须走代理) — 2026-06-11 运维
+DOMAIN-SUFFIX,tabbit.ai
