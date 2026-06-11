@@ -575,3 +575,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# Tabbit 美团主域直连 — 2026-06-11 运维
+DOMAIN-SUFFIX,tabbit.com
