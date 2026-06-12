@@ -578,3 +578,6 @@ DOMAIN-SUFFIX,zhuihd.com
 
 # Tabbit 美团主域直连 — 2026-06-11 运维
 DOMAIN-SUFFIX,tabbit.com
+
+# nblink 穿透域名直连 (qichiyu.iepose.cn 节点小宝穿透，须直连否则被拦地区限制) — 2026-06-12 运维
+DOMAIN-SUFFIX,iepose.cn
