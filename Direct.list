@@ -157,6 +157,34 @@ DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
 
+
+# Feishu / Lark
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishupkg.com
+DOMAIN-SUFFIX,getfeishu.cn
+DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,larkenterprise.com
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,larksuite-us.com
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,larksuitepkg.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,byteintlapi.com
+DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytevcloud.com
+DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,volcvideos.com
+DOMAIN-SUFFIX,effect.snssdk.com
 # CCTV
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
