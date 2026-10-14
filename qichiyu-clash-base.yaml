@@ -336,6 +336,9 @@
       "+.docs.jiguang.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.edge.mountaintoys.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.effect.snssdk.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -2197,6 +2200,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.biliplus.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bilivideo.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.bilivideo.com": [
@@ -11479,7 +11485,9 @@
       "TLS": {
         "ports": [
           443,
-          8443
+          8443,
+          4483,
+          8082
         ]
       }
     }
@@ -11741,6 +11749,7 @@
     "DOMAIN-SUFFIX,docs.getui.com,中国直连",
     "DOMAIN-SUFFIX,docs.growingio.com,中国直连",
     "DOMAIN-SUFFIX,docs.jiguang.cn,中国直连",
+    "DOMAIN-SUFFIX,edge.mountaintoys.cn,中国直连",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebase.google.com)),REJECT",
     "DOMAIN-SUFFIX,firebase.google.com,办公与云服务",
     "DOMAIN-SUFFIX,icloud.com.cn,中国直连",
@@ -11789,6 +11798,7 @@
     "DOMAIN,wwwimage-intl.pplusstatic.com,美国影音",
     "DOMAIN-SUFFIX,aadrm.cn,中国直连",
     "DOMAIN-SUFFIX,azure-mobile.cn,中国直连",
+    "DOMAIN-SUFFIX,bilivideo.cn,中国直连",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bitbucket.org)),REJECT",
     "DOMAIN-SUFFIX,bitbucket.org,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,butlerfortrello.com)),REJECT",
