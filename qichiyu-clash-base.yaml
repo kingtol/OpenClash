@@ -33,7 +33,85 @@
       "+.hz.pre.tbusergw.taobao.net": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.portal.partner.microsoftonline.cdnsvc.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.adimages.sina.com.hk": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-beijing.maas.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-beijing.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-chengdu.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-guangzhou.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-hangzhou-finance.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-hangzhou.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-heyuan.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-huhehaote.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-north-2-gov-1.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-qingdao.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-shanghai-finance.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-shanghai.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-shenzhen.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-wulanchabu.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-zhangjiakou.oss.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-beijing-1.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-beijing-fsi.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-beijing.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-chengdu.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-chongqing.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-guangzhou.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-nanjing.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-shanghai-fsi.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-shanghai.myqcloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cos.ap-shenzhen-fsi.myqcloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.dl.steam.clngaa.com": [
@@ -45,7 +123,19 @@
       "+.hz.tbusergw.taobao.net": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.mvn.gt.igexin.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.oascentral.sina.com.hk": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.microsoftonline-m-i.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.microsoftonline-m.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.microsoftonline-p.net.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.rj.m.taobao.co": [
@@ -69,13 +159,37 @@
       "+.71.am.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.account.huaweicloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.accounts.growingio.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.ads1.lfengmobile.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.afp.adchina.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.alidns.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.androidgo.duapp.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.api.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.api.jpush.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.apple.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.attachments.office365-net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.auth.microsoft.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ccbintl.com.hk": [
@@ -93,10 +207,34 @@
       "+.cmbi.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cn-beijing.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-chengdu.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.cn-east-2.myhuaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cn-east-3.myhuaweicloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-fuzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-guangzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-hangzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-heyuan.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-huhehaote.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-nanjing.aliyuncs.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cn-north-1.myhuaweicloud.com": [
@@ -123,6 +261,15 @@
       "+.cn-northeast-1.myhuaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cn-qingdao.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-shanghai.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-shenzhen.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.cn-south-1.myhuaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -133,6 +280,24 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cn-southwest-2.myhuaweicloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-wuhan-lr.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-wulanchabu.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-zhangjiakou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cn-zhongwei.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.collector.azure.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.console.huaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ctexcel.com.hk": [
@@ -150,7 +315,25 @@
       "+.ctrip.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.dashscope.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.dev.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.device.jpush.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.didimobility.co.jp": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.docs.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.docs.growingio.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.docs.jiguang.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.effect.snssdk.com": [
@@ -225,6 +408,9 @@
       "+.icbci.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.icloud.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.images-cn.ssl-images-amazon.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -243,6 +429,9 @@
       "+.lf-rc1.yhgfb-cn-static.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.loki.office365.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.material.istreamsche.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -252,16 +441,112 @@
       "+.mirrors.yun-idc.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.mvn.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.noxagile.duapp.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-beijing-finance-1-pub.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-beijing.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-chengdu.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-fuzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-guangzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-hangzhou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-heyuan.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-huhehaote.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-hzfinance.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-nanjing.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-north-2-gov-1.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-qingdao.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-shanghai-finance-1-pub.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-shanghai.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-shenzhen.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-szfinance.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-wuhan-lr.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-wulanchabu.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-zhangjiakou.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-cn-zhongwei.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.oss-rg-china-mainland.aliyuncs.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.outlook.office365.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.microsoftonline-p.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.office365.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.officewebapps.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.partner.outlook.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.pingan.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.portal.azure.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.portal.growingio.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.qq.cn.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.report.jpush.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.restapi.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.spdb.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.support.huaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.tanxlog.istreamsche.com": [
@@ -283,6 +568,15 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.windowsupdate.microsoft.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.www.growingio.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.www.huaweicloud.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.www.jiguang.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.yiliao.hupan.com": [
@@ -1134,6 +1428,9 @@
       "+.a9vg.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.aadrm.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.aardio.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -1446,9 +1743,6 @@
       "+.aliyuncdn.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
-      "+.aliyuncs.com": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
       "+.aliyundrive.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -1609,6 +1903,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.avicsec.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.azure-mobile.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.b23.tv": [
@@ -2535,6 +2832,12 @@
       "+.chinachugui.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.chinacloud-mobile.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.chinacloudapi.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.chinadongchu.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -3190,6 +3493,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cowtransfer.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.coze.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cppblog.com": [
@@ -4563,9 +4869,6 @@
       "+.greenxiazai.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
-      "+.growingio.com": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
       "+.grzq.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -5017,9 +5320,6 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.huaweicloud-smn.net": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
-      "+.huaweicloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.huaweicloudapis.com": [
@@ -6978,6 +7278,9 @@
       "+.metalrevolution.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.metaso.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.mfcteda.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -7006,6 +7309,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.miaozhen.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.microsoftonline.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.midasbuy.com": [
@@ -7057,6 +7363,12 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.minhangshi.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.minimax.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.minimaxi.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.minitiao.com": [
@@ -7173,7 +7485,19 @@
       "+.msanjia.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.msauth.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.msauthimages.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.mscbsc.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.msftauth.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.msftauthimages.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.msftconnecttest.com": [
@@ -7264,9 +7588,6 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.mypaas.com": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
-      "+.myqcloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.myshow360.net": [
@@ -7431,6 +7752,9 @@
       "+.officese.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.officewebapps.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.oi-wiki.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -7483,6 +7807,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.onlylady.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.onmschina.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.opdown.com": [
@@ -7762,9 +8089,6 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.qcloud-edumall.com": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
-      "+.qcloud.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.qcloud.la": [
@@ -8073,6 +8397,9 @@
       "+.quanmin.tv": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.quark.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.qudong.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -8355,6 +8682,9 @@
       "+.sharejs.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.sharepoint.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.shebiaotm.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -8446,6 +8776,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sifou.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.siliconflow.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.simei8.com": [
@@ -8596,6 +8929,18 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.southmoney.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sovcloud-mx.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sovcloud-static.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sovcloud-usercontent.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sovcloud.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sparenode.com": [
@@ -9957,6 +10302,9 @@
       "+.windows7en.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.windowsazure.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.windowszj.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -11144,23 +11492,12 @@
     "IP-CIDR6,fc00::/7,DIRECT,no-resolve",
     "DOMAIN-SUFFIX,lan,DIRECT",
     "DOMAIN-SUFFIX,local,DIRECT",
+    "IP-CIDR6,::/0,REJECT,no-resolve",
     "DST-PORT,53,REJECT",
     "DST-PORT,853,REJECT",
     "AND,((NETWORK,UDP),(DST-PORT,443)),REJECT",
     "AND,((NETWORK,UDP),(DST-PORT,3478-3481)),REJECT",
     "AND,((NETWORK,UDP),(DST-PORT,19302-19309)),REJECT",
-    "PROCESS-NAME,UURemote,中国直连",
-    "PROCESS-NAME,UURemoteService,中国直连",
-    "PROCESS-NAME,UURemoteDaemon,中国直连",
-    "PROCESS-NAME,UURemoteServer,中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,42.186.98.140/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.218/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.219/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.220/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.222/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.35/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.218/32),(DST-PORT,443)),中国直连",
-    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.219/32),(DST-PORT,443)),中国直连",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com)),REJECT",
     "DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,grazie.aws.intellij.net)),REJECT",
@@ -11169,6 +11506,8 @@
     "DOMAIN-SUFFIX,account.live.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,accounts.google.com)),REJECT",
     "DOMAIN-SUFFIX,accounts.google.com,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN,ai-gateway.vercel.sh)),REJECT",
+    "DOMAIN,ai-gateway.vercel.sh,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,ai.azure.com)),REJECT",
     "DOMAIN-SUFFIX,ai.azure.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,ai.google.dev)),REJECT",
@@ -11285,6 +11624,10 @@
     "DOMAIN-SUFFIX,pplx.ai,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,recaptcha.net)),REJECT",
     "DOMAIN-SUFFIX,recaptcha.net,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,replicate.com)),REJECT",
+    "DOMAIN-SUFFIX,replicate.com,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,replicate.delivery)),REJECT",
+    "DOMAIN-SUFFIX,replicate.delivery,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sentry.io)),REJECT",
     "DOMAIN-SUFFIX,sentry.io,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sora.com)),REJECT",
@@ -11307,26 +11650,224 @@
     "DOMAIN-SUFFIX,windsurf.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,x.ai)),REJECT",
     "DOMAIN-SUFFIX,x.ai,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN,artifacts-public-docker-pub-s3-production.s3.us-east-1.amazonaws.com)),REJECT",
+    "DOMAIN,artifacts-public-docker-pub-s3-production.s3.us-east-1.amazonaws.com,开发工具",
+    "DOMAIN-SUFFIX,portal.partner.microsoftonline.cdnsvc.com,中国直连",
+    "DOMAIN-SUFFIX,cn-beijing.maas.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-beijing.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-chengdu.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-guangzhou.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-hangzhou-finance.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-hangzhou.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-heyuan.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-huhehaote.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-north-2-gov-1.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-qingdao.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-shanghai-finance.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-shanghai.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-shenzhen.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-wulanchabu.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-zhangjiakou.oss.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-beijing-1.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-beijing-fsi.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-beijing.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-chengdu.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-chongqing.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-guangzhou.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-nanjing.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-shanghai-fsi.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-shanghai.myqcloud.com,中国直连",
+    "DOMAIN-SUFFIX,cos.ap-shenzhen-fsi.myqcloud.com,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN,docker-blobs.artifacts.atlassian.com)),REJECT",
+    "DOMAIN,docker-blobs.artifacts.atlassian.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN,docker-hub.packages.atlassian.com)),REJECT",
+    "DOMAIN,docker-hub.packages.atlassian.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN,docker-public.packages.atlassian.com)),REJECT",
+    "DOMAIN,docker-public.packages.atlassian.com,开发工具",
+    "DOMAIN-SUFFIX,mvn.gt.igexin.com,中国直连",
+    "DOMAIN-SUFFIX,partner.microsoftonline-m-i.net.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.microsoftonline-m.net.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.microsoftonline-p.net.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,prd.api.discomax.com)),REJECT",
+    "DOMAIN-SUFFIX,prd.api.discomax.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-attachments.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-attachments.s3.amazonaws.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-avatars.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-avatars.s3.amazonaws.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-backgrounds.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-backgrounds.s3.amazonaws.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-emoji.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-emoji.s3.amazonaws.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-logos.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-logos.s3.amazonaws.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,trello-stickers.s3.amazonaws.com)),REJECT",
+    "DOMAIN,trello-stickers.s3.amazonaws.com,办公与云服务",
+    "DOMAIN-SUFFIX,account.huaweicloud.com,中国直连",
+    "DOMAIN-SUFFIX,accounts.growingio.com,中国直连",
+    "DOMAIN-SUFFIX,alidns.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,api.getui.com,中国直连",
+    "DOMAIN-SUFFIX,api.jpush.cn,中国直连",
+    "DOMAIN-SUFFIX,apple.com.cn,中国直连",
+    "DOMAIN-SUFFIX,attachments.office365-net.cn,中国直连",
+    "DOMAIN-SUFFIX,auth.microsoft.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,beam-images.warnermediacdn.com)),REJECT",
+    "DOMAIN-SUFFIX,beam-images.warnermediacdn.com,美国影音",
+    "DOMAIN-SUFFIX,cn-beijing.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-fuzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-heyuan.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-huhehaote.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-nanjing.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-qingdao.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-shenzhen.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-wuhan-lr.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-wulanchabu.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-zhangjiakou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,cn-zhongwei.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,collector.azure.cn,中国直连",
+    "DOMAIN-SUFFIX,console.huaweicloud.com,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN,d1gyl6kne4u44z.cloudfront.net)),REJECT",
+    "DOMAIN,d1gyl6kne4u44z.cloudfront.net,开发工具",
+    "DOMAIN-SUFFIX,dashscope.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,dev.getui.com,中国直连",
+    "DOMAIN-SUFFIX,device.jpush.cn,中国直连",
+    "DOMAIN-SUFFIX,docs.getui.com,中国直连",
+    "DOMAIN-SUFFIX,docs.growingio.com,中国直连",
+    "DOMAIN-SUFFIX,docs.jiguang.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebase.google.com)),REJECT",
+    "DOMAIN-SUFFIX,firebase.google.com,办公与云服务",
+    "DOMAIN-SUFFIX,icloud.com.cn,中国直连",
+    "DOMAIN-SUFFIX,loki.office365.cn,中国直连",
+    "DOMAIN-SUFFIX,mvn.getui.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-beijing-finance-1-pub.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-chengdu.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-fuzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-guangzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-hangzhou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-heyuan.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-huhehaote.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-hzfinance.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-nanjing.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-north-2-gov-1.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-qingdao.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-shanghai-finance-1-pub.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-szfinance.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-wuhan-lr.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-wulanchabu.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-cn-zhongwei.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,oss-rg-china-mainland.aliyuncs.com,中国直连",
+    "DOMAIN-SUFFIX,outlook.office365.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.microsoftonline-p.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.office365.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.officewebapps.cn,中国直连",
+    "DOMAIN-SUFFIX,partner.outlook.cn,中国直连",
+    "DOMAIN-SUFFIX,portal.azure.cn,中国直连",
+    "DOMAIN-SUFFIX,portal.growingio.com,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,profile.line-scdn.net)),REJECT",
+    "DOMAIN-SUFFIX,profile.line-scdn.net,海外通信",
+    "DOMAIN-SUFFIX,report.jpush.cn,中国直连",
+    "DOMAIN-SUFFIX,restapi.getui.com,中国直连",
+    "DOMAIN-SUFFIX,support.huaweicloud.com,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN,thumbnails.cbsig.net)),REJECT",
+    "DOMAIN,thumbnails.cbsig.net,美国影音",
+    "DOMAIN-SUFFIX,www.growingio.com,中国直连",
+    "DOMAIN-SUFFIX,www.huaweicloud.com,中国直连",
+    "DOMAIN-SUFFIX,www.jiguang.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN,wwwimage-intl.pplusstatic.com)),REJECT",
+    "DOMAIN,wwwimage-intl.pplusstatic.com,美国影音",
+    "DOMAIN-SUFFIX,aadrm.cn,中国直连",
+    "DOMAIN-SUFFIX,azure-mobile.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bitbucket.org)),REJECT",
+    "DOMAIN-SUFFIX,bitbucket.org,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,butlerfortrello.com)),REJECT",
+    "DOMAIN-SUFFIX,butlerfortrello.com,办公与云服务",
+    "DOMAIN-SUFFIX,chinacloud-mobile.cn,中国直连",
+    "DOMAIN-SUFFIX,chinacloudapi.cn,中国直连",
+    "DOMAIN-SUFFIX,coze.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dailymotion.com)),REJECT",
+    "DOMAIN-SUFFIX,dailymotion.com,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dmcdn.net)),REJECT",
+    "DOMAIN-SUFFIX,dmcdn.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebaseapp.com)),REJECT",
+    "DOMAIN-SUFFIX,firebaseapp.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebaseio.com)),REJECT",
+    "DOMAIN-SUFFIX,firebaseio.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gitlab-static.net)),REJECT",
+    "DOMAIN-SUFFIX,gitlab-static.net,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gitlab.com)),REJECT",
+    "DOMAIN-SUFFIX,gitlab.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gitlab.net)),REJECT",
+    "DOMAIN-SUFFIX,gitlab.net,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gmail.com)),REJECT",
+    "DOMAIN-SUFFIX,gmail.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googlemail.com)),REJECT",
+    "DOMAIN-SUFFIX,googlemail.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hbomax.com)),REJECT",
+    "DOMAIN-SUFFIX,hbomax.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,jimdo.com)),REJECT",
+    "DOMAIN-SUFFIX,jimdo.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,max.com)),REJECT",
+    "DOMAIN-SUFFIX,max.com,美国影音",
+    "DOMAIN-SUFFIX,metaso.cn,中国直连",
+    "DOMAIN-SUFFIX,microsoftonline.cn,中国直连",
+    "DOMAIN-SUFFIX,minimax.cn,中国直连",
+    "DOMAIN-SUFFIX,minimaxi.com,中国直连",
+    "DOMAIN-SUFFIX,mobilityware.com,游戏",
+    "DOMAIN-SUFFIX,msauth.cn,中国直连",
+    "DOMAIN-SUFFIX,msauthimages.cn,中国直连",
+    "DOMAIN-SUFFIX,msftauth.cn,中国直连",
+    "DOMAIN-SUFFIX,msftauthimages.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,netlify.com)),REJECT",
+    "DOMAIN-SUFFIX,netlify.com,开发工具",
+    "DOMAIN-SUFFIX,officewebapps.cn,中国直连",
+    "DOMAIN-SUFFIX,onmschina.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,paramountplus.com)),REJECT",
+    "DOMAIN-SUFFIX,paramountplus.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,peacocktv.com)),REJECT",
+    "DOMAIN-SUFFIX,peacocktv.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pndsn.com)),REJECT",
+    "DOMAIN-SUFFIX,pndsn.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pubnub.com)),REJECT",
+    "DOMAIN-SUFFIX,pubnub.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pubnub.net)),REJECT",
+    "DOMAIN-SUFFIX,pubnub.net,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pubnubapi.com)),REJECT",
+    "DOMAIN-SUFFIX,pubnubapi.com,海外通信",
+    "DOMAIN-SUFFIX,quark.cn,中国直连",
+    "DOMAIN-SUFFIX,sharepoint.cn,中国直连",
+    "DOMAIN-SUFFIX,siliconflow.cn,中国直连",
+    "DOMAIN-SUFFIX,sovcloud-mx.cn,中国直连",
+    "DOMAIN-SUFFIX,sovcloud-static.cn,中国直连",
+    "DOMAIN-SUFFIX,sovcloud-usercontent.cn,中国直连",
+    "DOMAIN-SUFFIX,sovcloud.cn,中国直连",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sysdig.com)),REJECT",
+    "DOMAIN-SUFFIX,sysdig.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sysdigcloud.com)),REJECT",
+    "DOMAIN-SUFFIX,sysdigcloud.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trello.com)),REJECT",
+    "DOMAIN-SUFFIX,trello.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trello.services)),REJECT",
+    "DOMAIN-SUFFIX,trello.services,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trellocdn.com)),REJECT",
+    "DOMAIN-SUFFIX,trellocdn.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trellostatus.com)),REJECT",
+    "DOMAIN-SUFFIX,trellostatus.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,vercel.com)),REJECT",
+    "DOMAIN-SUFFIX,vercel.com,开发工具",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,vimeo.com)),REJECT",
+    "DOMAIN-SUFFIX,vimeo.com,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,vimeocdn.com)),REJECT",
+    "DOMAIN-SUFFIX,vimeocdn.com,其他海外影音",
+    "DOMAIN-SUFFIX,windowsazure.cn,中国直连",
     "DOMAIN,ol.epicgames.com,游戏",
     "DOMAIN,tracking-protection.cdn.mozilla.net,开发工具",
-    "AND,((NETWORK,UDP),(DOMAIN,adsmind.apdcdn.tc.qq.com)),REJECT",
-    "DOMAIN,adsmind.apdcdn.tc.qq.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,adsmind.tc.qq.com)),REJECT",
-    "DOMAIN,adsmind.tc.qq.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,wxsnsdy.wxs.qq.com)),REJECT",
-    "DOMAIN,wxsnsdy.wxs.qq.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,wxsnsdythumb.wxs.qq.com)),REJECT",
-    "DOMAIN,wxsnsdythumb.wxs.qq.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,adsmind.gdtimg.com)),REJECT",
-    "DOMAIN,adsmind.gdtimg.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,pgdt.gtimg.cn)),REJECT",
-    "DOMAIN,pgdt.gtimg.cn,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,pgdt.gtimg.com)),REJECT",
-    "DOMAIN,pgdt.gtimg.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,splashqqlive.gtimg.com)),REJECT",
-    "DOMAIN,splashqqlive.gtimg.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN,wa.gtimg.com)),REJECT",
-    "DOMAIN,wa.gtimg.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com)),REJECT",
     "DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,store.tv.api.3g.youku.com)),REJECT",
@@ -11339,6 +11880,8 @@
     "DOMAIN-SUFFIX,ad.api.3g.youku.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,ad.api.mobile.youku.com)),REJECT",
     "DOMAIN-SUFFIX,ad.api.mobile.youku.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,adsmind.apdcdn.tc.qq.com)),REJECT",
+    "DOMAIN,adsmind.apdcdn.tc.qq.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adv.sec.intl.miui.com)),REJECT",
     "DOMAIN-SUFFIX,adv.sec.intl.miui.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,api.mobula.sdk.duapps.com)),REJECT",
@@ -11419,6 +11962,8 @@
     "DOMAIN-SUFFIX,adserver.unityads.unity3d.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com)),REJECT",
     "DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,adsmind.tc.qq.com)),REJECT",
+    "DOMAIN,adsmind.tc.qq.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adui.tg.meitu.com)),REJECT",
     "DOMAIN-SUFFIX,adui.tg.meitu.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adv.sec.miui.com)),REJECT",
@@ -11865,6 +12410,10 @@
     "DOMAIN-SUFFIX,ws.progrss.yahoo.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,www-googletagmanager.l.google.com)),REJECT",
     "DOMAIN-SUFFIX,www-googletagmanager.l.google.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,wxsnsdy.wxs.qq.com)),REJECT",
+    "DOMAIN,wxsnsdy.wxs.qq.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,wxsnsdythumb.wxs.qq.com)),REJECT",
+    "DOMAIN,wxsnsdythumb.wxs.qq.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com)),REJECT",
     "DOMAIN-SUFFIX,xiuxiu.mobile.meitudata.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,xs.houyi.baofeng.net)),REJECT",
@@ -12043,6 +12592,8 @@
     "DOMAIN-SUFFIX,adshownew.it168.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adslot.uc.cn)),REJECT",
     "DOMAIN-SUFFIX,adslot.uc.cn,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,adsmind.gdtimg.com)),REJECT",
+    "DOMAIN,adsmind.gdtimg.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adss.yahoo.com)),REJECT",
     "DOMAIN-SUFFIX,adss.yahoo.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,adv.ccb.com)),REJECT",
@@ -12807,6 +13358,10 @@
     "DOMAIN-SUFFIX,pd.sogou.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pdl.gionee.com)),REJECT",
     "DOMAIN-SUFFIX,pdl.gionee.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,pgdt.gtimg.cn)),REJECT",
+    "DOMAIN,pgdt.gtimg.cn,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,pgdt.gtimg.com)),REJECT",
+    "DOMAIN,pgdt.gtimg.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pica-juicy.picacomic.com)),REJECT",
     "DOMAIN-SUFFIX,pica-juicy.picacomic.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,picture.duokan.com)),REJECT",
@@ -12941,6 +13496,8 @@
     "DOMAIN-SUFFIX,spcode.baidu.cn,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,spcode.baidu.com)),REJECT",
     "DOMAIN-SUFFIX,spcode.baidu.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,splashqqlive.gtimg.com)),REJECT",
+    "DOMAIN,splashqqlive.gtimg.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sta.ganji.com)),REJECT",
     "DOMAIN-SUFFIX,sta.ganji.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,stadig.ifeng.com)),REJECT",
@@ -13111,6 +13668,8 @@
     "DOMAIN-SUFFIX,videopush.baidu.cn,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,videopush.baidu.com)),REJECT",
     "DOMAIN-SUFFIX,videopush.baidu.com,广告拦截",
+    "AND,((NETWORK,UDP),(DOMAIN,wa.gtimg.com)),REJECT",
+    "DOMAIN,wa.gtimg.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,wa.kuwo.cn)),REJECT",
     "DOMAIN-SUFFIX,wa.kuwo.cn,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,wan.2345.cn)),REJECT",
@@ -13827,8 +14386,6 @@
     "DOMAIN-SUFFIX,jiaeasy.net,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,jiguang.cn)),REJECT",
     "DOMAIN-SUFFIX,jiguang.cn,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,jimdo.com)),REJECT",
-    "DOMAIN-SUFFIX,jimdo.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,jisucn.com)),REJECT",
     "DOMAIN-SUFFIX,jisucn.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,jizzads.com)),REJECT",
@@ -13959,8 +14516,6 @@
     "DOMAIN-SUFFIX,mobgi.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,mobileadtrading.com)),REJECT",
     "DOMAIN-SUFFIX,mobileadtrading.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,mobilityware.com)),REJECT",
-    "DOMAIN-SUFFIX,mobilityware.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,mobisage.cn)),REJECT",
     "DOMAIN-SUFFIX,mobisage.cn,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,mojiva.com)),REJECT",
@@ -14051,8 +14606,6 @@
     "DOMAIN-SUFFIX,publicidad.tv,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pubmatic.com)),REJECT",
     "DOMAIN-SUFFIX,pubmatic.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pubnub.com)),REJECT",
-    "DOMAIN-SUFFIX,pubnub.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,pyerc.com)),REJECT",
     "DOMAIN-SUFFIX,pyerc.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,qchannel0d.cn)),REJECT",
@@ -14153,8 +14706,6 @@
     "DOMAIN-SUFFIX,sycbbs.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,synacast.com)),REJECT",
     "DOMAIN-SUFFIX,synacast.com,广告拦截",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sysdig.com)),REJECT",
-    "DOMAIN-SUFFIX,sysdig.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,taboola.com)),REJECT",
     "DOMAIN-SUFFIX,taboola.com,广告拦截",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,talkingdata.com)),REJECT",
@@ -14847,7 +15398,6 @@
     "DOMAIN-SUFFIX,aliyun-iot-share.com,中国直连",
     "DOMAIN-SUFFIX,aliyun.com,中国直连",
     "DOMAIN-SUFFIX,aliyuncdn.com,中国直连",
-    "DOMAIN-SUFFIX,aliyuncs.com,中国直连",
     "DOMAIN-SUFFIX,aliyundrive.com,中国直连",
     "DOMAIN-SUFFIX,aliyundrive.net,中国直连",
     "DOMAIN-SUFFIX,alizhaopin.com,中国直连",
@@ -15886,7 +16436,6 @@
     "DOMAIN-SUFFIX,gracg.com,中国直连",
     "DOMAIN-SUFFIX,gree.com,中国直连",
     "DOMAIN-SUFFIX,greenxiazai.com,中国直连",
-    "DOMAIN-SUFFIX,growingio.com,中国直连",
     "DOMAIN-SUFFIX,grzq.com,中国直连",
     "DOMAIN-SUFFIX,gsadds.com,中国直连",
     "DOMAIN-SUFFIX,gszq.com,中国直连",
@@ -16038,7 +16587,6 @@
     "DOMAIN-SUFFIX,huaweicloud-dns.org,中国直连",
     "DOMAIN-SUFFIX,huaweicloud-smn.com,中国直连",
     "DOMAIN-SUFFIX,huaweicloud-smn.net,中国直连",
-    "DOMAIN-SUFFIX,huaweicloud.com,中国直连",
     "DOMAIN-SUFFIX,huaweicloudapis.com,中国直连",
     "DOMAIN-SUFFIX,huaweicloudlive.com,中国直连",
     "DOMAIN-SUFFIX,huaweiief.com,中国直连",
@@ -16787,7 +17335,6 @@
     "DOMAIN-SUFFIX,myhwclouds.com,中国直连",
     "DOMAIN-SUFFIX,myoppo.com,中国直连",
     "DOMAIN-SUFFIX,mypaas.com,中国直连",
-    "DOMAIN-SUFFIX,myqcloud.com,中国直连",
     "DOMAIN-SUFFIX,myshow360.net,中国直连",
     "DOMAIN-SUFFIX,mysiteres.com,中国直连",
     "DOMAIN-SUFFIX,myunlu.com,中国直连",
@@ -16953,7 +17500,6 @@
     "DOMAIN-SUFFIX,qcc.com,中国直连",
     "DOMAIN-SUFFIX,qcds.com,中国直连",
     "DOMAIN-SUFFIX,qcloud-edumall.com,中国直连",
-    "DOMAIN-SUFFIX,qcloud.com,中国直连",
     "DOMAIN-SUFFIX,qcloud.la,中国直连",
     "DOMAIN-SUFFIX,qcloudapps.com,中国直连",
     "DOMAIN-SUFFIX,qcloudcdn.com,中国直连",
@@ -18069,6 +18615,9 @@
     "DOMAIN-SUFFIX,zzdtec.com,中国直连",
     "DOMAIN,cloudsync-prod.s3.amazonaws.com,游戏",
     "DOMAIN,eaasserts-a.akamaihd.net,游戏",
+    "DOMAIN-SUFFIX,nintendo.co.jp,游戏",
+    "DOMAIN-SUFFIX,nintendo.co.uk,游戏",
+    "DOMAIN-SUFFIX,nintendo.com.au,游戏",
     "DOMAIN,origin-a.akamaihd.net,游戏",
     "DOMAIN,originasserts.akamaized.net,游戏",
     "DOMAIN,rtm.tnt-ea.com,游戏",
@@ -18078,9 +18627,6 @@
     "DOMAIN,steamstore-a.akamaihd.net,游戏",
     "DOMAIN,steamusercontent-a.akamaihd.net,游戏",
     "DOMAIN,steamuserimages-a.akamaihd.net,游戏",
-    "DOMAIN-SUFFIX,nintendo.co.jp,游戏",
-    "DOMAIN-SUFFIX,nintendo.co.uk,游戏",
-    "DOMAIN-SUFFIX,nintendo.com.au,游戏",
     "DOMAIN-SUFFIX,clashroyaleapp.com,游戏",
     "DOMAIN-SUFFIX,ea.com,游戏",
     "DOMAIN-SUFFIX,epicgames.com,游戏",
@@ -18125,16 +18671,32 @@
     "DOMAIN-SUFFIX,valvesoftware.com,游戏",
     "DOMAIN-SUFFIX,xbox.com,游戏",
     "DOMAIN-SUFFIX,xboxlive.com,游戏",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net)),REJECT",
+    "DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disney-portal.my.onetrust.com)),REJECT",
+    "DOMAIN-SUFFIX,disney-portal.my.onetrust.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hulu.hb.omtrdc.net)),REJECT",
+    "DOMAIN-SUFFIX,hulu.hb.omtrdc.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hulu.sc.omtrdc.net)),REJECT",
+    "DOMAIN-SUFFIX,hulu.sc.omtrdc.net,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,netflix.com.edgesuite.net)),REJECT",
     "DOMAIN,netflix.com.edgesuite.net,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,np-edge.itunes.apple.com)),REJECT",
     "DOMAIN,np-edge.itunes.apple.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,play-edge.itunes.apple.com)),REJECT",
     "DOMAIN,play-edge.itunes.apple.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com)),REJECT",
+    "DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,atv-ps.amazon.com)),REJECT",
     "DOMAIN,atv-ps.amazon.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,avodmp4s3ww-a.akamaihd.net)),REJECT",
     "DOMAIN,avodmp4s3ww-a.akamaihd.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bam.nr-data.net)),REJECT",
+    "DOMAIN-SUFFIX,bam.nr-data.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,cws-hulu.conviva.com)),REJECT",
+    "DOMAIN-SUFFIX,cws-hulu.conviva.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,cws.conviva.com)),REJECT",
+    "DOMAIN-SUFFIX,cws.conviva.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,d1v5ir2lpwr8os.cloudfront.net)),REJECT",
     "DOMAIN,d1v5ir2lpwr8os.cloudfront.net,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,d1xfray82862hr.cloudfront.net)),REJECT",
@@ -18147,38 +18709,22 @@
     "DOMAIN,d27xxe7juh1us6.cloudfront.net,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN,d3196yreox78o9.cloudfront.net)),REJECT",
     "DOMAIN,d3196yreox78o9.cloudfront.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN,dmqdd6hw24ucf.cloudfront.net)),REJECT",
-    "DOMAIN,dmqdd6hw24ucf.cloudfront.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN,ktpx.amazon.com)),REJECT",
-    "DOMAIN,ktpx.amazon.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN,youtubei.googleapis.com)),REJECT",
-    "DOMAIN,youtubei.googleapis.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN,yt3.ggpht.com)),REJECT",
-    "DOMAIN,yt3.ggpht.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net)),REJECT",
-    "DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disney-portal.my.onetrust.com)),REJECT",
-    "DOMAIN-SUFFIX,disney-portal.my.onetrust.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hulu.hb.omtrdc.net)),REJECT",
-    "DOMAIN-SUFFIX,hulu.hb.omtrdc.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hulu.sc.omtrdc.net)),REJECT",
-    "DOMAIN-SUFFIX,hulu.sc.omtrdc.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com)),REJECT",
-    "DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bam.nr-data.net)),REJECT",
-    "DOMAIN-SUFFIX,bam.nr-data.net,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,cws-hulu.conviva.com)),REJECT",
-    "DOMAIN-SUFFIX,cws-hulu.conviva.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,cws.conviva.com)),REJECT",
-    "DOMAIN-SUFFIX,cws.conviva.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disney.demdex.net)),REJECT",
     "DOMAIN-SUFFIX,disney.demdex.net,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,disneyplus.bn5x.net)),REJECT",
     "DOMAIN-SUFFIX,disneyplus.bn5x.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN,dmqdd6hw24ucf.cloudfront.net)),REJECT",
+    "DOMAIN,dmqdd6hw24ucf.cloudfront.net,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN,ktpx.amazon.com)),REJECT",
+    "DOMAIN,ktpx.amazon.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,tv.apple.com)),REJECT",
     "DOMAIN-SUFFIX,tv.apple.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,twitch-ext.rootonline.de)),REJECT",
     "DOMAIN-SUFFIX,twitch-ext.rootonline.de,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN,youtubei.googleapis.com)),REJECT",
+    "DOMAIN,youtubei.googleapis.com,美国影音",
+    "AND,((NETWORK,UDP),(DOMAIN,yt3.ggpht.com)),REJECT",
+    "DOMAIN,yt3.ggpht.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,aboutamazon.com)),REJECT",
     "DOMAIN-SUFFIX,aboutamazon.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,aiv-cdn.net)),REJECT",
@@ -18229,8 +18775,6 @@
     "DOMAIN-SUFFIX,hbo.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hbogo.com)),REJECT",
     "DOMAIN-SUFFIX,hbogo.com,美国影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hbomax.com)),REJECT",
-    "DOMAIN-SUFFIX,hbomax.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hbomaxcdn.com)),REJECT",
     "DOMAIN-SUFFIX,hbomaxcdn.com,美国影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,hbonow.com)),REJECT",
@@ -18341,6 +18885,8 @@
     "DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net)),REJECT",
     "DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net)),REJECT",
+    "DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,gamer-cds.cdn.hinet.net)),REJECT",
     "DOMAIN,gamer-cds.cdn.hinet.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,gamer2-cds.cdn.hinet.net)),REJECT",
@@ -18361,14 +18907,40 @@
     "DOMAIN,aod-hls-uk-live.akamaized.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,bahamut.akamaized.net)),REJECT",
     "DOMAIN,bahamut.akamaized.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bahamut.com.tw)),REJECT",
+    "DOMAIN-SUFFIX,bahamut.com.tw,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbc.co.uk)),REJECT",
+    "DOMAIN-SUFFIX,bbc.co.uk,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbc.net.uk)),REJECT",
+    "DOMAIN-SUFFIX,bbc.net.uk,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbci.co.uk)),REJECT",
+    "DOMAIN-SUFFIX,bbci.co.uk,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,bcbolt446c5271-a.akamaihd.net)),REJECT",
     "DOMAIN,bcbolt446c5271-a.akamaihd.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,bcbolthboa-a.akamaihd.net)),REJECT",
     "DOMAIN,bcbolthboa-a.akamaihd.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bidi.net.uk)),REJECT",
+    "DOMAIN-SUFFIX,bidi.net.uk,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,d349g9zuie06uo.cloudfront.net)),REJECT",
     "DOMAIN,d349g9zuie06uo.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,dai3fd1oh325y.cloudfront.net)),REJECT",
     "DOMAIN,dai3fd1oh325y.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dcblivedazn.akamaized.net)),REJECT",
+    "DOMAIN-SUFFIX,dcblivedazn.akamaized.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net)),REJECT",
+    "DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gamer.com.tw)),REJECT",
+    "DOMAIN-SUFFIX,gamer.com.tw,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,hamifans.emome.net)),REJECT",
     "DOMAIN,hamifans.emome.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,hboasia1-i.akamaihd.net)),REJECT",
@@ -18391,62 +18963,32 @@
     "DOMAIN,hbounify-prod.evergent.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,itvpnpmobile-a.akamaihd.net)),REJECT",
     "DOMAIN,itvpnpmobile-a.akamaihd.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,kkbox.com.tw)),REJECT",
+    "DOMAIN-SUFFIX,kkbox.com.tw,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,kktv-theater.kk.stream)),REJECT",
     "DOMAIN,kktv-theater.kk.stream,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,kktv.com.tw)),REJECT",
+    "DOMAIN-SUFFIX,kktv.com.tw,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,lf16-effectcdn.byteeffecttos-g.com)),REJECT",
     "DOMAIN,lf16-effectcdn.byteeffecttos-g.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,lf16-pkgcdn.pitaya-clientai.com)),REJECT",
     "DOMAIN,lf16-pkgcdn.pitaya-clientai.com,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,p.bstarstatic.com)),REJECT",
+    "DOMAIN-SUFFIX,p.bstarstatic.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,p16-tiktokcdn-com.akamaized.net)),REJECT",
     "DOMAIN,p16-tiktokcdn-com.akamaized.net,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,prod.hjholdings.tv)),REJECT",
+    "DOMAIN-SUFFIX,prod.hjholdings.tv,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,skyking.com.tw)),REJECT",
+    "DOMAIN-SUFFIX,skyking.com.tw,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,videos-f.jwpsrv.com)),REJECT",
     "DOMAIN,videos-f.jwpsrv.com,其他海外影音",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,viu.now.com)),REJECT",
+    "DOMAIN-SUFFIX,viu.now.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,vod-dash-uk-live.akamaized.net)),REJECT",
     "DOMAIN,vod-dash-uk-live.akamaized.net,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN,vod-thumb-uk-live.akamaized.net)),REJECT",
     "DOMAIN,vod-thumb-uk-live.akamaized.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net)),REJECT",
-    "DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bahamut.com.tw)),REJECT",
-    "DOMAIN-SUFFIX,bahamut.com.tw,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbc.co.uk)),REJECT",
-    "DOMAIN-SUFFIX,bbc.co.uk,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbc.net.uk)),REJECT",
-    "DOMAIN-SUFFIX,bbc.net.uk,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bbci.co.uk)),REJECT",
-    "DOMAIN-SUFFIX,bbci.co.uk,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,bidi.net.uk)),REJECT",
-    "DOMAIN-SUFFIX,bidi.net.uk,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dcblivedazn.akamaized.net)),REJECT",
-    "DOMAIN-SUFFIX,dcblivedazn.akamaized.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net)),REJECT",
-    "DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gamer.com.tw)),REJECT",
-    "DOMAIN-SUFFIX,gamer.com.tw,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,kkbox.com.tw)),REJECT",
-    "DOMAIN-SUFFIX,kkbox.com.tw,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,kktv.com.tw)),REJECT",
-    "DOMAIN-SUFFIX,kktv.com.tw,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,p.bstarstatic.com)),REJECT",
-    "DOMAIN-SUFFIX,p.bstarstatic.com,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,prod.hjholdings.tv)),REJECT",
-    "DOMAIN-SUFFIX,prod.hjholdings.tv,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,profile.line-scdn.net)),REJECT",
-    "DOMAIN-SUFFIX,profile.line-scdn.net,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,skyking.com.tw)),REJECT",
-    "DOMAIN-SUFFIX,skyking.com.tw,其他海外影音",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,viu.now.com)),REJECT",
-    "DOMAIN-SUFFIX,viu.now.com,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,yb.uncn.jp)),REJECT",
     "DOMAIN-SUFFIX,yb.uncn.jp,其他海外影音",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,5itv.tv)),REJECT",
@@ -18795,8 +19337,6 @@
     "DOMAIN-SUFFIX,rawgit.com,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,rawgithub.com)),REJECT",
     "DOMAIN-SUFFIX,rawgithub.com,开发工具",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,replicate.com)),REJECT",
-    "DOMAIN-SUFFIX,replicate.com,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,repo.new)),REJECT",
     "DOMAIN-SUFFIX,repo.new,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,rust-lang.org)),REJECT",
@@ -18811,20 +19351,6 @@
     "DOMAIN-SUFFIX,visualstudio.com,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN,android.apis.google.com)),REJECT",
     "DOMAIN,android.apis.google.com,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,api.imem.app)),REJECT",
-    "DOMAIN,api.imem.app,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,api.swiftgram.app)),REJECT",
-    "DOMAIN,api.swiftgram.app,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,device-provisioning.googleapis.com)),REJECT",
-    "DOMAIN,device-provisioning.googleapis.com,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,firebaseinstallations.googleapis.com)),REJECT",
-    "DOMAIN,firebaseinstallations.googleapis.com,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,mtalk-dev.google.com)),REJECT",
-    "DOMAIN,mtalk-dev.google.com,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,mtalk-staging.google.com)),REJECT",
-    "DOMAIN,mtalk-staging.google.com,海外通信",
-    "AND,((NETWORK,UDP),(DOMAIN,mtalk4.google.com)),REJECT",
-    "DOMAIN,mtalk4.google.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,alt1-mtalk.google.com)),REJECT",
     "DOMAIN-SUFFIX,alt1-mtalk.google.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,alt2-mtalk.google.com)),REJECT",
@@ -18841,10 +19367,24 @@
     "DOMAIN-SUFFIX,alt7-mtalk.google.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,alt8-mtalk.google.com)),REJECT",
     "DOMAIN-SUFFIX,alt8-mtalk.google.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,api.imem.app)),REJECT",
+    "DOMAIN,api.imem.app,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,api.swiftgram.app)),REJECT",
+    "DOMAIN,api.swiftgram.app,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,crl.pki.goog)),REJECT",
     "DOMAIN-SUFFIX,crl.pki.goog,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,device-provisioning.googleapis.com)),REJECT",
+    "DOMAIN,device-provisioning.googleapis.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,firebaseinstallations.googleapis.com)),REJECT",
+    "DOMAIN,firebaseinstallations.googleapis.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,mtalk-dev.google.com)),REJECT",
+    "DOMAIN,mtalk-dev.google.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,mtalk-staging.google.com)),REJECT",
+    "DOMAIN,mtalk-staging.google.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,mtalk.google.com)),REJECT",
     "DOMAIN-SUFFIX,mtalk.google.com,海外通信",
+    "AND,((NETWORK,UDP),(DOMAIN,mtalk4.google.com)),REJECT",
+    "DOMAIN,mtalk4.google.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,ocsp.pki.goog)),REJECT",
     "DOMAIN-SUFFIX,ocsp.pki.goog,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,safebrowsing-cache.google.com)),REJECT",
@@ -18921,44 +19461,6 @@
     "DOMAIN-SUFFIX,whatsapp.com,海外通信",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,whatsapp.net)),REJECT",
     "DOMAIN-SUFFIX,whatsapp.net,海外通信",
-    "AND,((NETWORK,UDP),(IP-CIDR,109.239.140.0/24)),REJECT",
-    "IP-CIDR,109.239.140.0/24,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR,139.59.210.98/32)),REJECT",
-    "IP-CIDR,139.59.210.98/32,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR,149.154.160.0/20)),REJECT",
-    "IP-CIDR,149.154.160.0/20,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR,196.55.216.167/32)),REJECT",
-    "IP-CIDR,196.55.216.167/32,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR,5.28.192.0/18)),REJECT",
-    "IP-CIDR,5.28.192.0/18,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR,91.108.0.0/16)),REJECT",
-    "IP-CIDR,91.108.0.0/16,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR6,2001:67c:4e8::/48)),REJECT",
-    "IP-CIDR6,2001:67c:4e8::/48,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR6,2001:b28:f23c::/47)),REJECT",
-    "IP-CIDR6,2001:b28:f23c::/47,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR6,2001:b28:f23f::/48)),REJECT",
-    "IP-CIDR6,2001:b28:f23f::/48,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(IP-CIDR6,2a0a:f280::/29)),REJECT",
-    "IP-CIDR6,2a0a:f280::/29,海外通信,no-resolve",
-    "AND,((NETWORK,UDP),(DOMAIN,apple.comscoreresearch.com)),REJECT",
-    "DOMAIN,apple.comscoreresearch.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,calendar.google.com)),REJECT",
-    "DOMAIN,calendar.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,contacts.google.com)),REJECT",
-    "DOMAIN,contacts.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,docs.google.com)),REJECT",
-    "DOMAIN,docs.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,drive.google.com)),REJECT",
-    "DOMAIN,drive.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,mail.google.com)),REJECT",
-    "DOMAIN,mail.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,meet.google.com)),REJECT",
-    "DOMAIN,meet.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,sheets.google.com)),REJECT",
-    "DOMAIN,sheets.google.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,slides.google.com)),REJECT",
-    "DOMAIN,slides.google.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,alibabacloud.co.in)),REJECT",
@@ -18975,22 +19477,36 @@
     "DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,api.crisp.chat)),REJECT",
     "DOMAIN-SUFFIX,api.crisp.chat,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,apple.com.cn)),REJECT",
-    "DOMAIN-SUFFIX,apple.com.cn,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,apple.comscoreresearch.com)),REJECT",
+    "DOMAIN,apple.comscoreresearch.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,calendar.google.com)),REJECT",
+    "DOMAIN,calendar.google.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,contacts.google.com)),REJECT",
+    "DOMAIN,contacts.google.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,docs.google.com)),REJECT",
+    "DOMAIN,docs.google.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,drive.google.com)),REJECT",
+    "DOMAIN,drive.google.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,icloud.com.cn)),REJECT",
-    "DOMAIN-SUFFIX,icloud.com.cn,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,mail.google.com)),REJECT",
+    "DOMAIN,mail.google.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,meet.google.com)),REJECT",
+    "DOMAIN,meet.google.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com)),REJECT",
     "DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,sheets.google.com)),REJECT",
+    "DOMAIN,sheets.google.com,办公与云服务",
+    "AND,((NETWORK,UDP),(DOMAIN,slides.google.com)),REJECT",
+    "DOMAIN,slides.google.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,spoprod-a.akamaihd.net)),REJECT",
     "DOMAIN-SUFFIX,spoprod-a.akamaihd.net,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,1drv.com)),REJECT",
@@ -19305,8 +19821,6 @@
     "DOMAIN-SUFFIX,tawk.link,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,tawk.to)),REJECT",
     "DOMAIN-SUFFIX,tawk.to,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trellocdn.com)),REJECT",
-    "DOMAIN-SUFFIX,trellocdn.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,udacity.com)),REJECT",
     "DOMAIN-SUFFIX,udacity.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,un.org)),REJECT",
@@ -19347,8 +19861,6 @@
     "DOMAIN-SUFFIX,zoom.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,zoom.us)),REJECT",
     "DOMAIN-SUFFIX,zoom.us,办公与云服务",
-    "AND,((NETWORK,UDP),(DOMAIN,voice.telephony.goog)),REJECT",
-    "DOMAIN,voice.telephony.goog,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,prod.databe.floonet.goog)),REJECT",
     "DOMAIN-SUFFIX,prod.databe.floonet.goog,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com)),REJECT",
@@ -19589,6 +20101,8 @@
     "DOMAIN-SUFFIX,staging-databe.floonet.goog,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,thinkquarterly.co.uk)),REJECT",
     "DOMAIN-SUFFIX,thinkquarterly.co.uk,海外搜索",
+    "AND,((NETWORK,UDP),(DOMAIN,voice.telephony.goog)),REJECT",
+    "DOMAIN,voice.telephony.goog,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,womenwill.com.br)),REJECT",
     "DOMAIN-SUFFIX,womenwill.com.br,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,www.destinationurl.com)),REJECT",
@@ -19941,10 +20455,6 @@
     "DOMAIN-SUFFIX,fflick.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,financeleadsonline.com)),REJECT",
     "DOMAIN-SUFFIX,financeleadsonline.com,海外搜索",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebaseapp.com)),REJECT",
-    "DOMAIN-SUFFIX,firebaseapp.com,海外搜索",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,firebaseio.com)),REJECT",
-    "DOMAIN-SUFFIX,firebaseio.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,flutter.dev)),REJECT",
     "DOMAIN-SUFFIX,flutter.dev,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,flutterapp.com)),REJECT",
@@ -19993,8 +20503,6 @@
     "DOMAIN-SUFFIX,gkecnapps.cn,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,globaledu.org)),REJECT",
     "DOMAIN-SUFFIX,globaledu.org,海外搜索",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gmail.com)),REJECT",
-    "DOMAIN-SUFFIX,gmail.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gmodules.com)),REJECT",
     "DOMAIN-SUFFIX,gmodules.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,go-lang.com)),REJECT",
@@ -20303,8 +20811,6 @@
     "DOMAIN-SUFFIX,googlefinland.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googleflights-cn.net)),REJECT",
     "DOMAIN-SUFFIX,googleflights-cn.net,海外搜索",
-    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googlemail.com)),REJECT",
-    "DOMAIN-SUFFIX,googlemail.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googlemaps.com)),REJECT",
     "DOMAIN-SUFFIX,googlemaps.com,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googlemashups.com)),REJECT",
@@ -20679,6 +21185,67 @@
     "DOMAIN-SUFFIX,zukunftswerkstatt.de,海外搜索",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,zynamics.com)),REJECT",
     "DOMAIN-SUFFIX,zynamics.com,海外搜索",
+    "AND,((NETWORK,UDP),(IP-CIDR,109.239.140.0/24,no-resolve)),REJECT",
+    "IP-CIDR,109.239.140.0/24,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR,139.59.210.98/32,no-resolve)),REJECT",
+    "IP-CIDR,139.59.210.98/32,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR,149.154.160.0/20,no-resolve)),REJECT",
+    "IP-CIDR,149.154.160.0/20,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR,196.55.216.167/32,no-resolve)),REJECT",
+    "IP-CIDR,196.55.216.167/32,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR,5.28.192.0/18,no-resolve)),REJECT",
+    "IP-CIDR,5.28.192.0/18,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR,91.108.0.0/16,no-resolve)),REJECT",
+    "IP-CIDR,91.108.0.0/16,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR6,2001:67c:4e8::/48,no-resolve)),REJECT",
+    "IP-CIDR6,2001:67c:4e8::/48,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR6,2001:b28:f23c::/47,no-resolve)),REJECT",
+    "IP-CIDR6,2001:b28:f23c::/47,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR6,2001:b28:f23f::/48,no-resolve)),REJECT",
+    "IP-CIDR6,2001:b28:f23f::/48,海外通信,no-resolve",
+    "AND,((NETWORK,UDP),(IP-CIDR6,2a0a:f280::/29,no-resolve)),REJECT",
+    "IP-CIDR6,2a0a:f280::/29,海外通信,no-resolve",
+    "AND,((NETWORK,TCP),(IP-CIDR,23.246.0.0/18,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,37.77.184.0/21,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,45.57.0.0/17,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,64.120.128.0/17,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,66.197.128.0/17,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,69.53.224.0/19,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,108.175.32.0/20,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,185.2.220.0/22,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,185.9.188.0/22,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,192.173.64.0/18,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,198.38.96.0/19,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,198.45.48.0/20,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,207.45.72.0/22,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,208.75.76.0/22,no-resolve)),美国影音",
+    "AND,((NETWORK,TCP),(IP-CIDR,185.188.32.0/28,no-resolve)),开发工具",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,OneDrive)),办公与云服务",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,OneDriveUpdater)),办公与云服务",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,OneDrive.exe)),办公与云服务",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,Telegram.exe)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,nekox.messenger)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,org.telegram.messenger)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,telegram-desktop)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,tw.nekomimi.nekogram)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,xyz.nextalone.nagram)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,Telegram)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,Telegram Lite)),海外通信",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,TeamViewer.exe)),开发工具",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,TeamViewer_Desktop.exe)),开发工具",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,TeamViewer_Service.exe)),开发工具",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,UURemote)),中国直连",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,UURemoteService)),中国直连",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,UURemoteDaemon)),中国直连",
+    "AND,((NETWORK,TCP),(PROCESS-NAME,UURemoteServer)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,42.186.98.140/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.218/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.219/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.220/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,117.175.212.222/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.35/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.218/32,no-resolve),(DST-PORT,443)),中国直连",
+    "AND,((NETWORK,TCP),(IP-CIDR,221.236.31.219/32,no-resolve),(DST-PORT,443)),中国直连",
     "NETWORK,UDP,REJECT",
     "MATCH,美国 AI"
   ]
