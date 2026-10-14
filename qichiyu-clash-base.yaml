@@ -447,6 +447,9 @@
       "+.noxagile.duapp.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.oa.schwcx.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.oss-cn-beijing-finance-1-pub.aliyuncs.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -11469,7 +11472,8 @@
       "HTTP": {
         "ports": [
           80,
-          "8080-8880"
+          "8080-8880",
+          8888
         ]
       },
       "TLS": {
@@ -11742,6 +11746,7 @@
     "DOMAIN-SUFFIX,icloud.com.cn,中国直连",
     "DOMAIN-SUFFIX,loki.office365.cn,中国直连",
     "DOMAIN-SUFFIX,mvn.getui.com,中国直连",
+    "DOMAIN-SUFFIX,oa.schwcx.com,中国直连",
     "DOMAIN-SUFFIX,oss-cn-beijing-finance-1-pub.aliyuncs.com,中国直连",
     "DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com,中国直连",
     "DOMAIN-SUFFIX,oss-cn-chengdu.aliyuncs.com,中国直连",
