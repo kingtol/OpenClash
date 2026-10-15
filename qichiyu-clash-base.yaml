@@ -129,6 +129,9 @@
       "+.oascentral.sina.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.open.e.189.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.partner.microsoftonline-m-i.net.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -192,13 +195,28 @@
       "+.auth.microsoft.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.auth.wo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.ccbintl.com.hk": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cctvlib.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cctvlibrary.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cctvpro.com.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.chinaunicom.com.hk": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.citics.com.hk": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.citv.net.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cm.fancyapi.com": [
@@ -294,6 +312,12 @@
       "+.cn-zhongwei.aliyuncs.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cnms.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cntv.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.collector.azure.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -343,6 +367,12 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ex.puata.info": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.gjgbdszt.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.gjgbdszt.net.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.gtm.oasisfeng.com": [
@@ -417,6 +447,9 @@
       "+.images-cn.ssl-images-amazon.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.ipanda.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.iqiyi.demo.uwp": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -427,6 +460,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.jxlog.istreamsche.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.kuxiaomiao.com.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.lf-rc1.yhgfb-cn-static.com": [
@@ -540,6 +576,12 @@
       "+.portal.growingio.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.ppstream.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.ppstream.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.qq.cn.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -547,6 +589,12 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.restapi.getui.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sina.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sohu.com.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.spdb.com.cn": [
@@ -565,6 +613,12 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.tongji.linezing.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.tvcc.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.ukoo.com.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.update.microsoft.com": [
@@ -588,6 +642,24 @@
       "+.yiliao.hupan.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.yoku.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.yoqoo.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.youku.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.zggbdszt.com.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.zggbdszt.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.zygbdszt.net.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.00cdn.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -604,6 +676,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.0759job.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.0co3geye.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.10010.com": [
@@ -825,6 +900,9 @@
       "+.2cto.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.2isbbess.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.3000.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -856,6 +934,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.33lc.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.33lwhaoinc.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.343480.com": [
@@ -1185,6 +1266,9 @@
       "+.52miji.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.52mtkvideo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.52pk.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -1428,6 +1512,9 @@
       "+.9xgame.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.9xsecndns.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.9xu.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -1459,6 +1546,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.acetaffy.club": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.acfun.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.acfun.com": [
@@ -1507,6 +1597,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ahitv.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.aianno.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.aianno.com": [
@@ -1650,9 +1743,6 @@
       "+.alidayu.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
-      "+.alidns.com": [
-        "https://223.5.5.5/dns-query#DIRECT"
-      ],
       "+.aliexpress.ru": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -1791,7 +1881,13 @@
       "+.anfensi.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.animetamashi.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.animetamashi.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.anitama.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.anitama.net": [
@@ -1924,6 +2020,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.b612.net": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.b82yxres.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.bababian.com": [
@@ -2133,6 +2232,12 @@
       "+.biddingx.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.bigfun.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bigfunapp.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.bigmodel.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -2140,6 +2245,18 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.biji.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bili22.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bili2233.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bili23.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bili33.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.biliapi.com": [
@@ -2151,6 +2268,9 @@
       "+.bilibili.cc": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.bilibili.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.bilibili.co": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -2160,10 +2280,16 @@
       "+.bilibili.net": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.bilibiligame.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.bilibiligame.co": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.bilibiligame.net": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.bilibilipay.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.bilibilipay.com": [
@@ -2182,6 +2308,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.bilicdn5.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.biligame.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.biligame.co": [
@@ -2523,10 +2652,22 @@
       "+.cctalk.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cctv.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.cctv.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cctvlib.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cctvlibrary.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.cctvpic.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cctvpro.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cczq.com": [
@@ -2848,6 +2989,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.chinadongchu.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.chinaepg.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.chinaexpressair.com": [
@@ -3354,6 +3498,9 @@
       "+.cmpassport.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.cmvideo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.cn163.net": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -3421,6 +3568,12 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cnthinkers.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cntv.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.cntvwb.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.cnweblog.com": [
@@ -3957,10 +4110,10 @@
       "+.dogedoge.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
-      "+.doh.pub": [
+      "+.domesticmedia.cc": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
-      "+.domesticmedia.cc": [
+      "+.domesticmedia.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.domesticmedia.co": [
@@ -3975,10 +4128,16 @@
       "+.domesticmedia.tv": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.domesticmediagame.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.domesticmediagame.co": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.domesticmediagame.net": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.domesticmediapay.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.domesticmediapay.com": [
@@ -4045,6 +4204,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.douyu.tv": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.douyucdn.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.douyuscdn.com": [
@@ -4375,6 +4537,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.fdcyun.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.feelgood.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.feidee.com": [
@@ -4779,7 +4944,13 @@
       "+.gitee.io": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.gitv.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.gitv.tv": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.gjgbdszt.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.globrand.com": [
@@ -5745,6 +5916,9 @@
       "+.ip138.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.ipanda.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.ipanda.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -5812,6 +5986,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.it610.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.itc.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.iteye.com": [
@@ -6169,6 +6346,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.jianbihua.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.jiangbing.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.jianguoyun.com": [
@@ -6666,6 +6846,12 @@
       "+.kuqin.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.kuwo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.kuxiaomiao.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.kuxiaomiao.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -6949,6 +7135,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.live800.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.livechina.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.livechina.com": [
@@ -7327,6 +7516,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.miercn.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.migu.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.migucloud.com": [
@@ -7725,6 +7917,9 @@
       "+.nruan.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.ns6mitkxo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.ntalker.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -7780,6 +7975,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.oldboyedu.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.olympicchannelchina.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.oncdp.com": [
@@ -8034,6 +8232,9 @@
       "+.powerapp.io": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.pplive.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.pplive.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -8041,6 +8242,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ppsimg.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.ppstream.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.ppstream.com": [
@@ -8329,6 +8533,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.qixin.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.qiyi.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.qiyi.com": [
@@ -8799,16 +9006,25 @@
       "+.simuwang.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.sina.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.sina.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sina.net": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.sinaapp.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.sinaapp.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sinaedge.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sinaimg.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sinaimg.com": [
@@ -8833,6 +9049,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sjwyx.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sk2cdsnw.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.skycn.com": [
@@ -8887,6 +9106,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sogo.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.sogoodtech1.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.sogou.com": [
@@ -9042,6 +9264,9 @@
       "+.sui.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.suike.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.sumkoo.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -9159,6 +9384,9 @@
       "+.tao123.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.taobao.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.taobao.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -9189,7 +9417,13 @@
       "+.tazai.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.tb.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.tbcache.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.tbcdn.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.tbcdn.com": [
@@ -9735,6 +9969,9 @@
       "+.tuwanjun.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.tvcc.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.twscholar.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -10209,7 +10446,13 @@
       "+.wegameplus.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.weibo.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.weibo.com": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.weibocdn.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.weibocdn.com": [
@@ -10318,6 +10561,9 @@
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.winegame.net": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.wingsmobiletek.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.winwin7.com": [
@@ -10635,7 +10881,16 @@
       "+.xmhouse.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.xn--fiq53l90et9fpncc7joo6apn8a.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
+      "+.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
       "+.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s": [
@@ -11202,6 +11457,9 @@
       "+.zgcbank.com": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
+      "+.zggbdszt.cn": [
+        "https://223.5.5.5/dns-query#DIRECT"
+      ],
       "+.zgjm.org": [
         "https://223.5.5.5/dns-query#DIRECT"
       ],
@@ -11506,6 +11764,19 @@
     "DOMAIN-SUFFIX,lan,DIRECT",
     "DOMAIN-SUFFIX,local,DIRECT",
     "IP-CIDR6,::/0,REJECT,no-resolve",
+    "DOMAIN-SUFFIX,cloudflare-dns.com,REJECT",
+    "DOMAIN-SUFFIX,dns.alidns.com,REJECT",
+    "DOMAIN-SUFFIX,dns.google,REJECT",
+    "DOMAIN-SUFFIX,doh.360.cn,REJECT",
+    "DOMAIN-SUFFIX,doh.pub,REJECT",
+    "DOMAIN-SUFFIX,dot.pub,REJECT",
+    "DOMAIN-SUFFIX,one.one.one.one,REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,1.0.0.1/32,no-resolve),(DST-PORT,443)),REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,1.1.1.1/32,no-resolve),(DST-PORT,443)),REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,8.8.4.4/32,no-resolve),(DST-PORT,443)),REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,8.8.8.8/32,no-resolve),(DST-PORT,443)),REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,223.5.5.5/32,no-resolve),(DST-PORT,443)),REJECT",
+    "AND,((NETWORK,TCP),(IP-CIDR,223.6.6.6/32,no-resolve),(DST-PORT,443)),REJECT",
     "DST-PORT,53,REJECT",
     "DST-PORT,853,REJECT",
     "AND,((NETWORK,UDP),(DST-PORT,443)),REJECT",
@@ -11547,6 +11818,8 @@
     "DOMAIN-SUFFIX,copilot.microsoft.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,edgeservices.bing.com)),REJECT",
     "DOMAIN-SUFFIX,edgeservices.bing.com,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN,fonts.googleapis.com)),REJECT",
+    "DOMAIN,fonts.googleapis.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,gemini.google.com)),REJECT",
     "DOMAIN-SUFFIX,gemini.google.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,generativelanguage.googleapis.com)),REJECT",
@@ -11565,6 +11838,8 @@
     "DOMAIN-SUFFIX,notebooklm.google.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,openaiapi-site.azureedge.net)),REJECT",
     "DOMAIN-SUFFIX,openaiapi-site.azureedge.net,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN,storage.googleapis.com)),REJECT",
+    "DOMAIN,storage.googleapis.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sydney.bing.com)),REJECT",
     "DOMAIN-SUFFIX,sydney.bing.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trae-api-sg.mchost.guru)),REJECT",
@@ -11579,6 +11854,8 @@
     "DOMAIN-SUFFIX,chatgpt.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,claude.ai)),REJECT",
     "DOMAIN-SUFFIX,claude.ai,美国 AI",
+    "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,claude.app)),REJECT",
+    "DOMAIN-SUFFIX,claude.app,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,claude.com)),REJECT",
     "DOMAIN-SUFFIX,claude.com,美国 AI",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,claudemcpcontent.com)),REJECT",
@@ -11867,6 +12144,8 @@
     "DOMAIN-SUFFIX,sysdig.com,开发工具",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,sysdigcloud.com)),REJECT",
     "DOMAIN-SUFFIX,sysdigcloud.com,开发工具",
+    "DOMAIN-SUFFIX,taobao.cn,中国直连",
+    "DOMAIN-SUFFIX,tb.cn,中国直连",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trello.com)),REJECT",
     "DOMAIN-SUFFIX,trello.com,办公与云服务",
     "AND,((NETWORK,UDP),(DOMAIN-SUFFIX,trello.services)),REJECT",
@@ -14948,6 +15227,7 @@
     "DOMAIN-SUFFIX,dl.steam.ksyna.com,中国直连",
     "DOMAIN-SUFFIX,hz.tbusergw.taobao.net,中国直连",
     "DOMAIN-SUFFIX,oascentral.sina.com.hk,中国直连",
+    "DOMAIN-SUFFIX,open.e.189.cn,中国直连",
     "DOMAIN-SUFFIX,rj.m.taobao.co,中国直连",
     "DOMAIN-SUFFIX,st.dl.bscstorage.net,中国直连",
     "DOMAIN-SUFFIX,st.dl.eccdnx.com,中国直连",
@@ -14958,9 +15238,14 @@
     "DOMAIN-SUFFIX,ads1.lfengmobile.com,中国直连",
     "DOMAIN-SUFFIX,afp.adchina.com,中国直连",
     "DOMAIN-SUFFIX,androidgo.duapp.com,中国直连",
+    "DOMAIN-SUFFIX,auth.wo.cn,中国直连",
     "DOMAIN-SUFFIX,ccbintl.com.hk,中国直连",
+    "DOMAIN-SUFFIX,cctvlib.com.cn,中国直连",
+    "DOMAIN-SUFFIX,cctvlibrary.com.cn,中国直连",
+    "DOMAIN-SUFFIX,cctvpro.com.cn,中国直连",
     "DOMAIN-SUFFIX,chinaunicom.com.hk,中国直连",
     "DOMAIN-SUFFIX,citics.com.hk,中国直连",
+    "DOMAIN-SUFFIX,citv.net.cn,中国直连",
     "DOMAIN-SUFFIX,cm.fancyapi.com,中国直连",
     "DOMAIN-SUFFIX,cmbi.com.hk,中国直连",
     "DOMAIN-SUFFIX,cn-east-2.myhuaweicloud.com,中国直连",
@@ -14977,6 +15262,8 @@
     "DOMAIN-SUFFIX,cn-south-2.myhuaweicloud.com,中国直连",
     "DOMAIN-SUFFIX,cn-south-4.myhuaweicloud.com,中国直连",
     "DOMAIN-SUFFIX,cn-southwest-2.myhuaweicloud.com,中国直连",
+    "DOMAIN-SUFFIX,cnms.net.cn,中国直连",
+    "DOMAIN-SUFFIX,cntv.com.cn,中国直连",
     "DOMAIN-SUFFIX,ctexcel.com.hk,中国直连",
     "DOMAIN-SUFFIX,ctrip.co.id,中国直连",
     "DOMAIN-SUFFIX,ctrip.co.kr,中国直连",
@@ -14985,6 +15272,8 @@
     "DOMAIN-SUFFIX,didimobility.co.jp,中国直连",
     "DOMAIN-SUFFIX,effect.snssdk.com,中国直连",
     "DOMAIN-SUFFIX,ex.puata.info,中国直连",
+    "DOMAIN-SUFFIX,gjgbdszt.com.cn,中国直连",
+    "DOMAIN-SUFFIX,gjgbdszt.net.cn,中国直连",
     "DOMAIN-SUFFIX,gtm.oasisfeng.com,中国直连",
     "DOMAIN-SUFFIX,hhtravel.com.tw,中国直连",
     "DOMAIN-SUFFIX,icbc.co.id,中国直连",
@@ -15008,32 +15297,47 @@
     "DOMAIN-SUFFIX,icbcbr.com.br,中国直连",
     "DOMAIN-SUFFIX,icbci.com.hk,中国直连",
     "DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com,中国直连",
+    "DOMAIN-SUFFIX,ipanda.com.cn,中国直连",
     "DOMAIN-SUFFIX,iqiyi.demo.uwp,中国直连",
     "DOMAIN-SUFFIX,jd.co.th,中国直连",
     "DOMAIN-SUFFIX,jiasu.bohe.com,中国直连",
     "DOMAIN-SUFFIX,jxlog.istreamsche.com,中国直连",
+    "DOMAIN-SUFFIX,kuxiaomiao.com.cn,中国直连",
     "DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com,中国直连",
     "DOMAIN-SUFFIX,material.istreamsche.com,中国直连",
     "DOMAIN-SUFFIX,media.paperclipclub.net,中国直连",
     "DOMAIN-SUFFIX,mirrors.yun-idc.com,中国直连",
     "DOMAIN-SUFFIX,noxagile.duapp.com,中国直连",
     "DOMAIN-SUFFIX,pingan.com.hk,中国直连",
+    "DOMAIN-SUFFIX,ppstream.com.cn,中国直连",
+    "DOMAIN-SUFFIX,ppstream.net.cn,中国直连",
     "DOMAIN-SUFFIX,qq.cn.com,中国直连",
+    "DOMAIN-SUFFIX,sina.com.cn,中国直连",
+    "DOMAIN-SUFFIX,sohu.com.cn,中国直连",
     "DOMAIN-SUFFIX,spdb.com.cn,中国直连",
     "DOMAIN-SUFFIX,tanxlog.istreamsche.com,中国直连",
     "DOMAIN-SUFFIX,tencent.co.id,中国直连",
     "DOMAIN-SUFFIX,tencent.com.hk,中国直连",
     "DOMAIN-SUFFIX,tongji.linezing.com,中国直连",
+    "DOMAIN-SUFFIX,tvcc.com.cn,中国直连",
+    "DOMAIN-SUFFIX,ukoo.com.cn,中国直连",
     "DOMAIN-SUFFIX,update.microsoft.com,中国直连",
     "DOMAIN-SUFFIX,werewolf.53site.com,中国直连",
     "DOMAIN-SUFFIX,windowsupdate.microsoft.com,中国直连",
     "DOMAIN-SUFFIX,yiliao.hupan.com,中国直连",
+    "DOMAIN-SUFFIX,yoku.net.cn,中国直连",
+    "DOMAIN-SUFFIX,yoqoo.net.cn,中国直连",
+    "DOMAIN-SUFFIX,youku.com.cn,中国直连",
+    "DOMAIN-SUFFIX,zggbdszt.com.cn,中国直连",
+    "DOMAIN-SUFFIX,zggbdszt.net.cn,中国直连",
+    "DOMAIN-SUFFIX,zygbdszt.net.cn,中国直连",
     "DOMAIN-SUFFIX,00cdn.com,中国直连",
     "DOMAIN-SUFFIX,0123456789.com,中国直连",
     "DOMAIN-SUFFIX,0379home.com,中国直连",
     "DOMAIN-SUFFIX,055110.com,中国直连",
     "DOMAIN-SUFFIX,05sun.com,中国直连",
     "DOMAIN-SUFFIX,0759job.com,中国直连",
+    "DOMAIN-SUFFIX,0co3geye.cn,中国直连",
     "DOMAIN-SUFFIX,10010.com,中国直连",
     "DOMAIN-SUFFIX,100bt.com,中国直连",
     "DOMAIN-SUFFIX,100offer.com,中国直连",
@@ -15107,6 +15411,7 @@
     "DOMAIN-SUFFIX,265.com,中国直连",
     "DOMAIN-SUFFIX,289.com,中国直连",
     "DOMAIN-SUFFIX,2cto.com,中国直连",
+    "DOMAIN-SUFFIX,2isbbess.cn,中国直连",
     "DOMAIN-SUFFIX,3000.com,中国直连",
     "DOMAIN-SUFFIX,300hu.com,中国直连",
     "DOMAIN-SUFFIX,310win.com,中国直连",
@@ -15118,6 +15423,7 @@
     "DOMAIN-SUFFIX,3322.org,中国直连",
     "DOMAIN-SUFFIX,3387.com,中国直连",
     "DOMAIN-SUFFIX,33lc.com,中国直连",
+    "DOMAIN-SUFFIX,33lwhaoinc.cn,中国直连",
     "DOMAIN-SUFFIX,343480.com,中国直连",
     "DOMAIN-SUFFIX,3454.com,中国直连",
     "DOMAIN-SUFFIX,3456.cc,中国直连",
@@ -15227,6 +15533,7 @@
     "DOMAIN-SUFFIX,5253.com,中国直连",
     "DOMAIN-SUFFIX,52hxw.com,中国直连",
     "DOMAIN-SUFFIX,52miji.com,中国直连",
+    "DOMAIN-SUFFIX,52mtkvideo.cn,中国直连",
     "DOMAIN-SUFFIX,52pk.com,中国直连",
     "DOMAIN-SUFFIX,52z.com,中国直连",
     "DOMAIN-SUFFIX,53kf.com,中国直连",
@@ -15308,6 +15615,7 @@
     "DOMAIN-SUFFIX,99fund.com,中国直连",
     "DOMAIN-SUFFIX,9ht.com,中国直连",
     "DOMAIN-SUFFIX,9xgame.com,中国直连",
+    "DOMAIN-SUFFIX,9xsecndns.cn,中国直连",
     "DOMAIN-SUFFIX,9xu.com,中国直连",
     "DOMAIN-SUFFIX,a9vg.com,中国直连",
     "DOMAIN-SUFFIX,aardio.com,中国直连",
@@ -15318,6 +15626,7 @@
     "DOMAIN-SUFFIX,acctdns.com,中国直连",
     "DOMAIN-SUFFIX,acctdns.net,中国直连",
     "DOMAIN-SUFFIX,acetaffy.club,中国直连",
+    "DOMAIN-SUFFIX,acfun.cn,中国直连",
     "DOMAIN-SUFFIX,acfun.com,中国直连",
     "DOMAIN-SUFFIX,acfun.tv,中国直连",
     "DOMAIN-SUFFIX,acg.tv,中国直连",
@@ -15334,6 +15643,7 @@
     "DOMAIN-SUFFIX,agoralab.co,中国直连",
     "DOMAIN-SUFFIX,agrantsem.com,中国直连",
     "DOMAIN-SUFFIX,ahitv.com,中国直连",
+    "DOMAIN-SUFFIX,aianno.cn,中国直连",
     "DOMAIN-SUFFIX,aianno.com,中国直连",
     "DOMAIN-SUFFIX,aicdn.com,中国直连",
     "DOMAIN-SUFFIX,aichaoxing.com,中国直连",
@@ -15381,7 +15691,6 @@
     "DOMAIN-SUFFIX,alicloudapi.com,中国直连",
     "DOMAIN-SUFFIX,alicloudccp.com,中国直连",
     "DOMAIN-SUFFIX,alidayu.com,中国直连",
-    "DOMAIN-SUFFIX,alidns.com,中国直连",
     "DOMAIN-SUFFIX,aliexpress.ru,中国直连",
     "DOMAIN-SUFFIX,alifanyi.com,中国直连",
     "DOMAIN-SUFFIX,alihealth.hk,中国直连",
@@ -15428,7 +15737,9 @@
     "DOMAIN-SUFFIX,amemv.com,中国直连",
     "DOMAIN-SUFFIX,andfx.net,中国直连",
     "DOMAIN-SUFFIX,anfensi.com,中国直连",
+    "DOMAIN-SUFFIX,animetamashi.cn,中国直连",
     "DOMAIN-SUFFIX,animetamashi.com,中国直连",
+    "DOMAIN-SUFFIX,anitama.cn,中国直连",
     "DOMAIN-SUFFIX,anitama.net,中国直连",
     "DOMAIN-SUFFIX,anjuke.com,中国直连",
     "DOMAIN-SUFFIX,anjukestatic.com,中国直连",
@@ -15472,6 +15783,7 @@
     "DOMAIN-SUFFIX,b2byao.com,中国直连",
     "DOMAIN-SUFFIX,b3log.org,中国直连",
     "DOMAIN-SUFFIX,b612.net,中国直连",
+    "DOMAIN-SUFFIX,b82yxres.cn,中国直连",
     "DOMAIN-SUFFIX,bababian.com,中国直连",
     "DOMAIN-SUFFIX,babytree.com,中国直连",
     "DOMAIN-SUFFIX,babytreeimg.com,中国直连",
@@ -15541,23 +15853,33 @@
     "DOMAIN-SUFFIX,bibaodao.com,中国直连",
     "DOMAIN-SUFFIX,bidchance.com,中国直连",
     "DOMAIN-SUFFIX,biddingx.com,中国直连",
+    "DOMAIN-SUFFIX,bigfun.cn,中国直连",
+    "DOMAIN-SUFFIX,bigfunapp.cn,中国直连",
     "DOMAIN-SUFFIX,bigmodel.cn,中国直连",
     "DOMAIN-SUFFIX,bihu.com,中国直连",
     "DOMAIN-SUFFIX,biji.com,中国直连",
+    "DOMAIN-SUFFIX,bili22.cn,中国直连",
+    "DOMAIN-SUFFIX,bili2233.cn,中国直连",
+    "DOMAIN-SUFFIX,bili23.cn,中国直连",
+    "DOMAIN-SUFFIX,bili33.cn,中国直连",
     "DOMAIN-SUFFIX,biliapi.com,中国直连",
     "DOMAIN-SUFFIX,biliapi.net,中国直连",
     "DOMAIN-SUFFIX,bilibili.cc,中国直连",
+    "DOMAIN-SUFFIX,bilibili.cn,中国直连",
     "DOMAIN-SUFFIX,bilibili.co,中国直连",
     "DOMAIN-SUFFIX,bilibili.com,中国直连",
     "DOMAIN-SUFFIX,bilibili.net,中国直连",
+    "DOMAIN-SUFFIX,bilibiligame.cn,中国直连",
     "DOMAIN-SUFFIX,bilibiligame.co,中国直连",
     "DOMAIN-SUFFIX,bilibiligame.net,中国直连",
+    "DOMAIN-SUFFIX,bilibilipay.cn,中国直连",
     "DOMAIN-SUFFIX,bilibilipay.com,中国直连",
     "DOMAIN-SUFFIX,bilicdn1.com,中国直连",
     "DOMAIN-SUFFIX,bilicdn2.com,中国直连",
     "DOMAIN-SUFFIX,bilicdn3.com,中国直连",
     "DOMAIN-SUFFIX,bilicdn4.com,中国直连",
     "DOMAIN-SUFFIX,bilicdn5.com,中国直连",
+    "DOMAIN-SUFFIX,biligame.cn,中国直连",
     "DOMAIN-SUFFIX,biligame.co,中国直连",
     "DOMAIN-SUFFIX,biligame.com,中国直连",
     "DOMAIN-SUFFIX,biligame.net,中国直连",
@@ -15670,8 +15992,12 @@
     "DOMAIN-SUFFIX,ccgslb.net,中国直连",
     "DOMAIN-SUFFIX,ccnew.com,中国直连",
     "DOMAIN-SUFFIX,cctalk.com,中国直连",
+    "DOMAIN-SUFFIX,cctv.cn,中国直连",
     "DOMAIN-SUFFIX,cctv.com,中国直连",
+    "DOMAIN-SUFFIX,cctvlib.cn,中国直连",
+    "DOMAIN-SUFFIX,cctvlibrary.cn,中国直连",
     "DOMAIN-SUFFIX,cctvpic.com,中国直连",
+    "DOMAIN-SUFFIX,cctvpro.cn,中国直连",
     "DOMAIN-SUFFIX,cczq.com,中国直连",
     "DOMAIN-SUFFIX,cczq.net,中国直连",
     "DOMAIN-SUFFIX,cdn20.com,中国直连",
@@ -15777,6 +16103,7 @@
     "DOMAIN-SUFFIX,chinacache.net,中国直连",
     "DOMAIN-SUFFIX,chinachugui.com,中国直连",
     "DOMAIN-SUFFIX,chinadongchu.com,中国直连",
+    "DOMAIN-SUFFIX,chinaepg.cn,中国直连",
     "DOMAIN-SUFFIX,chinaexpressair.com,中国直连",
     "DOMAIN-SUFFIX,chinafph.com,中国直连",
     "DOMAIN-SUFFIX,chinahr.com,中国直连",
@@ -15945,6 +16272,7 @@
     "DOMAIN-SUFFIX,cmfchina.com,中国直连",
     "DOMAIN-SUFFIX,cmfu.com,中国直连",
     "DOMAIN-SUFFIX,cmpassport.com,中国直连",
+    "DOMAIN-SUFFIX,cmvideo.cn,中国直连",
     "DOMAIN-SUFFIX,cn163.net,中国直连",
     "DOMAIN-SUFFIX,cn88.net,中国直连",
     "DOMAIN-SUFFIX,cnanzhi.com,中国直连",
@@ -15968,6 +16296,8 @@
     "DOMAIN-SUFFIX,cnstock.com,中国直连",
     "DOMAIN-SUFFIX,cnsuning.com,中国直连",
     "DOMAIN-SUFFIX,cnthinkers.com,中国直连",
+    "DOMAIN-SUFFIX,cntv.cn,中国直连",
+    "DOMAIN-SUFFIX,cntvwb.cn,中国直连",
     "DOMAIN-SUFFIX,cnweblog.com,中国直连",
     "DOMAIN-SUFFIX,cnzz.com,中国直连",
     "DOMAIN-SUFFIX,cocodiy.com,中国直连",
@@ -16145,14 +16475,16 @@
     "DOMAIN-SUFFIX,docschina.org,中国直连",
     "DOMAIN-SUFFIX,doctoryou.ai,中国直连",
     "DOMAIN-SUFFIX,dogedoge.com,中国直连",
-    "DOMAIN-SUFFIX,doh.pub,中国直连",
     "DOMAIN-SUFFIX,domesticmedia.cc,中国直连",
+    "DOMAIN-SUFFIX,domesticmedia.cn,中国直连",
     "DOMAIN-SUFFIX,domesticmedia.co,中国直连",
     "DOMAIN-SUFFIX,domesticmedia.com,中国直连",
     "DOMAIN-SUFFIX,domesticmedia.net,中国直连",
     "DOMAIN-SUFFIX,domesticmedia.tv,中国直连",
+    "DOMAIN-SUFFIX,domesticmediagame.cn,中国直连",
     "DOMAIN-SUFFIX,domesticmediagame.co,中国直连",
     "DOMAIN-SUFFIX,domesticmediagame.net,中国直连",
+    "DOMAIN-SUFFIX,domesticmediapay.cn,中国直连",
     "DOMAIN-SUFFIX,domesticmediapay.com,中国直连",
     "DOMAIN-SUFFIX,donews.com,中国直连",
     "DOMAIN-SUFFIX,dongao.com,中国直连",
@@ -16175,6 +16507,7 @@
     "DOMAIN-SUFFIX,douyinvod.com,中国直连",
     "DOMAIN-SUFFIX,douyu.com,中国直连",
     "DOMAIN-SUFFIX,douyu.tv,中国直连",
+    "DOMAIN-SUFFIX,douyucdn.cn,中国直连",
     "DOMAIN-SUFFIX,douyuscdn.com,中国直连",
     "DOMAIN-SUFFIX,douyutv.com,中国直连",
     "DOMAIN-SUFFIX,downcc.com,中国直连",
@@ -16285,6 +16618,7 @@
     "DOMAIN-SUFFIX,fastcdn.com,中国直连",
     "DOMAIN-SUFFIX,fbank.com,中国直连",
     "DOMAIN-SUFFIX,fdcyun.com,中国直连",
+    "DOMAIN-SUFFIX,feelgood.cn,中国直连",
     "DOMAIN-SUFFIX,feidee.com,中国直连",
     "DOMAIN-SUFFIX,feidee.net,中国直连",
     "DOMAIN-SUFFIX,feihuo.com,中国直连",
@@ -16419,7 +16753,9 @@
     "DOMAIN-SUFFIX,gitcode.net,中国直连",
     "DOMAIN-SUFFIX,gitee.com,中国直连",
     "DOMAIN-SUFFIX,gitee.io,中国直连",
+    "DOMAIN-SUFFIX,gitv.cn,中国直连",
     "DOMAIN-SUFFIX,gitv.tv,中国直连",
+    "DOMAIN-SUFFIX,gjgbdszt.cn,中国直连",
     "DOMAIN-SUFFIX,globrand.com,中国直连",
     "DOMAIN-SUFFIX,gm86.com,中国直连",
     "DOMAIN-SUFFIX,gmz88.com,中国直连",
@@ -16741,6 +17077,7 @@
     "DOMAIN-SUFFIX,ionewu.com,中国直连",
     "DOMAIN-SUFFIX,ip-cdn.com,中国直连",
     "DOMAIN-SUFFIX,ip138.com,中国直连",
+    "DOMAIN-SUFFIX,ipanda.cn,中国直连",
     "DOMAIN-SUFFIX,ipanda.com,中国直连",
     "DOMAIN-SUFFIX,ipanda.net,中国直连",
     "DOMAIN-SUFFIX,ipapark.com,中国直连",
@@ -16764,6 +17101,7 @@
     "DOMAIN-SUFFIX,it165.net,中国直连",
     "DOMAIN-SUFFIX,it168.com,中国直连",
     "DOMAIN-SUFFIX,it610.com,中国直连",
+    "DOMAIN-SUFFIX,itc.cn,中国直连",
     "DOMAIN-SUFFIX,iteye.com,中国直连",
     "DOMAIN-SUFFIX,ithome.com,中国直连",
     "DOMAIN-SUFFIX,itjuzi.com,中国直连",
@@ -16883,6 +17221,7 @@
     "DOMAIN-SUFFIX,jia.com,中国直连",
     "DOMAIN-SUFFIX,jiameng.com,中国直连",
     "DOMAIN-SUFFIX,jianbihua.com,中国直连",
+    "DOMAIN-SUFFIX,jiangbing.cn,中国直连",
     "DOMAIN-SUFFIX,jianguoyun.com,中国直连",
     "DOMAIN-SUFFIX,jianshu.com,中国直连",
     "DOMAIN-SUFFIX,jianshu.io,中国直连",
@@ -17048,6 +17387,8 @@
     "DOMAIN-SUFFIX,kunlunvi.com,中国直连",
     "DOMAIN-SUFFIX,kunlunwe.com,中国直连",
     "DOMAIN-SUFFIX,kuqin.com,中国直连",
+    "DOMAIN-SUFFIX,kuwo.cn,中国直连",
+    "DOMAIN-SUFFIX,kuxiaomiao.cn,中国直连",
     "DOMAIN-SUFFIX,kuxiaomiao.com,中国直连",
     "DOMAIN-SUFFIX,kuxiaomiao.net,中国直连",
     "DOMAIN-SUFFIX,kuyiso.com,中国直连",
@@ -17143,6 +17484,7 @@
     "DOMAIN-SUFFIX,liulishuo.com,中国直连",
     "DOMAIN-SUFFIX,liuxiaoer.com,中国直连",
     "DOMAIN-SUFFIX,live800.com,中国直连",
+    "DOMAIN-SUFFIX,livechina.cn,中国直连",
     "DOMAIN-SUFFIX,livechina.com,中国直连",
     "DOMAIN-SUFFIX,liweijia.com,中国直连",
     "DOMAIN-SUFFIX,lixinger.com,中国直连",
@@ -17267,6 +17609,7 @@
     "DOMAIN-SUFFIX,miaozhen.com,中国直连",
     "DOMAIN-SUFFIX,midasbuy.com,中国直连",
     "DOMAIN-SUFFIX,miercn.com,中国直连",
+    "DOMAIN-SUFFIX,migu.cn,中国直连",
     "DOMAIN-SUFFIX,migucloud.com,中国直连",
     "DOMAIN-SUFFIX,miguvideo.com,中国直连",
     "DOMAIN-SUFFIX,mihayo.com,中国直连",
@@ -17393,6 +17736,7 @@
     "DOMAIN-SUFFIX,nowscore.com,中国直连",
     "DOMAIN-SUFFIX,npmmirror.com,中国直连",
     "DOMAIN-SUFFIX,nruan.com,中国直连",
+    "DOMAIN-SUFFIX,ns6mitkxo.cn,中国直连",
     "DOMAIN-SUFFIX,ntalker.com,中国直连",
     "DOMAIN-SUFFIX,nuomi.com,中国直连",
     "DOMAIN-SUFFIX,nvsheng.com,中国直连",
@@ -17411,6 +17755,7 @@
     "DOMAIN-SUFFIX,ol-cdn.com,中国直连",
     "DOMAIN-SUFFIX,ol-img.com,中国直连",
     "DOMAIN-SUFFIX,oldboyedu.com,中国直连",
+    "DOMAIN-SUFFIX,olympicchannelchina.cn,中国直连",
     "DOMAIN-SUFFIX,oncdp.com,中国直连",
     "DOMAIN-SUFFIX,oneapm.com,中国直连",
     "DOMAIN-SUFFIX,onedns.net,中国直连",
@@ -17494,9 +17839,11 @@
     "DOMAIN-SUFFIX,pniao.com,中国直连",
     "DOMAIN-SUFFIX,polyv.net,中国直连",
     "DOMAIN-SUFFIX,powerapp.io,中国直连",
+    "DOMAIN-SUFFIX,pplive.cn,中国直连",
     "DOMAIN-SUFFIX,pplive.com,中国直连",
     "DOMAIN-SUFFIX,pps.tv,中国直连",
     "DOMAIN-SUFFIX,ppsimg.com,中国直连",
+    "DOMAIN-SUFFIX,ppstream.cn,中国直连",
     "DOMAIN-SUFFIX,ppstream.com,中国直连",
     "DOMAIN-SUFFIX,ppstream.net,中国直连",
     "DOMAIN-SUFFIX,ppsurl.com,中国直连",
@@ -17593,6 +17940,7 @@
     "DOMAIN-SUFFIX,qiushibaike.com,中国直连",
     "DOMAIN-SUFFIX,qiuwen.wiki,中国直连",
     "DOMAIN-SUFFIX,qixin.com,中国直连",
+    "DOMAIN-SUFFIX,qiyi.cn,中国直连",
     "DOMAIN-SUFFIX,qiyi.com,中国直连",
     "DOMAIN-SUFFIX,qiyipic.com,中国直连",
     "DOMAIN-SUFFIX,qiyukf.com,中国直连",
@@ -17746,10 +18094,13 @@
     "DOMAIN-SUFFIX,simei8.com,中国直连",
     "DOMAIN-SUFFIX,simplecd.me,中国直连",
     "DOMAIN-SUFFIX,simuwang.com,中国直连",
+    "DOMAIN-SUFFIX,sina.cn,中国直连",
     "DOMAIN-SUFFIX,sina.com,中国直连",
     "DOMAIN-SUFFIX,sina.net,中国直连",
+    "DOMAIN-SUFFIX,sinaapp.cn,中国直连",
     "DOMAIN-SUFFIX,sinaapp.com,中国直连",
     "DOMAIN-SUFFIX,sinaedge.com,中国直连",
+    "DOMAIN-SUFFIX,sinaimg.cn,中国直连",
     "DOMAIN-SUFFIX,sinaimg.com,中国直连",
     "DOMAIN-SUFFIX,sinajs.com,中国直连",
     "DOMAIN-SUFFIX,sinesafe.com,中国直连",
@@ -17758,6 +18109,7 @@
     "DOMAIN-SUFFIX,sinopecgroup.com,中国直连",
     "DOMAIN-SUFFIX,sinopecsales.com,中国直连",
     "DOMAIN-SUFFIX,sjwyx.com,中国直连",
+    "DOMAIN-SUFFIX,sk2cdsnw.cn,中国直连",
     "DOMAIN-SUFFIX,skycn.com,中国直连",
     "DOMAIN-SUFFIX,skysea.com,中国直连",
     "DOMAIN-SUFFIX,slk1.net,中国直连",
@@ -17776,6 +18128,7 @@
     "DOMAIN-SUFFIX,softwhy.com,中国直连",
     "DOMAIN-SUFFIX,sofun.com,中国直连",
     "DOMAIN-SUFFIX,sogo.com,中国直连",
+    "DOMAIN-SUFFIX,sogoodtech1.cn,中国直连",
     "DOMAIN-SUFFIX,sogou.com,中国直连",
     "DOMAIN-SUFFIX,sogoucdn.com,中国直连",
     "DOMAIN-SUFFIX,sohu-inc.com,中国直连",
@@ -17823,6 +18176,7 @@
     "DOMAIN-SUFFIX,stockstar.com,中国直连",
     "DOMAIN-SUFFIX,suanya.com,中国直连",
     "DOMAIN-SUFFIX,sui.com,中国直连",
+    "DOMAIN-SUFFIX,suike.cn,中国直连",
     "DOMAIN-SUFFIX,sumkoo.com,中国直连",
     "DOMAIN-SUFFIX,sumkoo.net,中国直连",
     "DOMAIN-SUFFIX,sun0769.com,中国直连",
@@ -17873,6 +18227,7 @@
     "DOMAIN-SUFFIX,taptap.com,中国直连",
     "DOMAIN-SUFFIX,tazai.com,中国直连",
     "DOMAIN-SUFFIX,tbcache.com,中国直连",
+    "DOMAIN-SUFFIX,tbcdn.cn,中国直连",
     "DOMAIN-SUFFIX,tbcdn.com,中国直连",
     "DOMAIN-SUFFIX,tburl.in,中国直连",
     "DOMAIN-SUFFIX,tcdlive.com,中国直连",
@@ -18054,6 +18409,7 @@
     "DOMAIN-SUFFIX,tutuapp.com,中国直连",
     "DOMAIN-SUFFIX,tuwan.com,中国直连",
     "DOMAIN-SUFFIX,tuwanjun.com,中国直连",
+    "DOMAIN-SUFFIX,tvcc.cn,中国直连",
     "DOMAIN-SUFFIX,twscholar.com,中国直连",
     "DOMAIN-SUFFIX,tx-exhibition.com,中国直连",
     "DOMAIN-SUFFIX,txbyod.com,中国直连",
@@ -18212,7 +18568,9 @@
     "DOMAIN-SUFFIX,wegame.com,中国直连",
     "DOMAIN-SUFFIX,wegamedeveloper.com,中国直连",
     "DOMAIN-SUFFIX,wegameplus.com,中国直连",
+    "DOMAIN-SUFFIX,weibo.cn,中国直连",
     "DOMAIN-SUFFIX,weibo.com,中国直连",
+    "DOMAIN-SUFFIX,weibocdn.cn,中国直连",
     "DOMAIN-SUFFIX,weibocdn.com,中国直连",
     "DOMAIN-SUFFIX,weicaifu.com,中国直连",
     "DOMAIN-SUFFIX,weico.cc,中国直连",
@@ -18248,6 +18606,7 @@
     "DOMAIN-SUFFIX,windows7en.com,中国直连",
     "DOMAIN-SUFFIX,windowszj.com,中国直连",
     "DOMAIN-SUFFIX,winegame.net,中国直连",
+    "DOMAIN-SUFFIX,wingsmobiletek.cn,中国直连",
     "DOMAIN-SUFFIX,winwin7.com,中国直连",
     "DOMAIN-SUFFIX,wishdown.com,中国直连",
     "DOMAIN-SUFFIX,wiwide.com,中国直连",
@@ -18353,7 +18712,10 @@
     "DOMAIN-SUFFIX,xjoycity.com,中国直连",
     "DOMAIN-SUFFIX,xmcdn.com,中国直连",
     "DOMAIN-SUFFIX,xmhouse.com,中国直连",
+    "DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,中国直连",
     "DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,中国直连",
+    "DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,中国直连",
+    "DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,中国直连",
     "DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,中国直连",
     "DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s,中国直连",
     "DOMAIN-SUFFIX,xnpic.com,中国直连",
@@ -18542,6 +18904,7 @@
     "DOMAIN-SUFFIX,zdnscloud.net,中国直连",
     "DOMAIN-SUFFIX,zealer.com,中国直连",
     "DOMAIN-SUFFIX,zgcbank.com,中国直连",
+    "DOMAIN-SUFFIX,zggbdszt.cn,中国直连",
     "DOMAIN-SUFFIX,zgjm.org,中国直连",
     "DOMAIN-SUFFIX,zgjsks.com,中国直连",
     "DOMAIN-SUFFIX,zglxw.com,中国直连",
